@@ -1,3 +1,3 @@
 const superFunction = () => {
-  console.log('Hello')
+  console.log('Hello world')
 }
